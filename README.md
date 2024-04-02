@@ -1,1 +1,1 @@
-# first-repo
+Test Python project with git rebase
